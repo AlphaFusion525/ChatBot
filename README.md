@@ -24,7 +24,7 @@ TAVILY_API_KEY=your_tavily_api_key
 🖥️ Running the App
 1. Start the FastAPI backend:
 python backend.py
-This will start the server on http://127.0.0.1:9999
+This will start the server on http://127.0.0.1:8001
 
 2. Run the Streamlit frontend:
 streamlit run frontend.py
